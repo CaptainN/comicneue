@@ -1,0 +1,22 @@
+{
+  "name": "comicneue",
+  "version": "2.3.0",
+  "description": "Comic Neue is a font that fixes the shortcomings of Comic Sans",
+  "main": "Web/font.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crozynski/comicneue.git"
+  },
+  "author": "Craig Rozynski",
+  "keywords":[
+    "font", "typography", "ttf", "otf", "woff", "eot", "woff2"
+  ],
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/crozynski/comicneue/issues"
+  },
+  "homepage": "https://github.com/crozynski/comicneue#readme"
+}
