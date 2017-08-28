@@ -1,23 +1,10 @@
 /* ==========================================================================
    IMPLEMENTATION
    ========================================================================== */
-
-body {
-    font-family: 'Comic Neue', sans-serif;
-    font-weight: 400;
-    font-size: 1em;
-    line-height: 1.5;
-    /* Enable a font's kerning: http://stackoverflow.com/questions/15160897/font-feature-settings-what-is-the-correct-syntax */
-    font-feature-settings: "kern";
-    -moz-font-feature-settings: "kern";
-    -webkit-font-feature-settings: "kern";
-}
-
-
-/* 
+/*
 
  	font-weight: 100; Comic Neue Light
- 	font-weight: 300; Comic Neue Regular 
+ 	font-weight: 300; Comic Neue Regular
  	font-weight: 700; Comic Neue Bold
 	font-style: oblique; for the oblique equivalents.
 
